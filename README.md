@@ -1,9 +1,2 @@
-## to run
-
-```bash
-python3 bot.py
-```
-
-## to prepare
-
-Create bot_token.py file with value TOKEN = '\<Your Token\>'
+## Download the code and run bot.py for the normal bot.
+## If you have a discord bot you would like to host this code on make sure to set the token to the bots token.
